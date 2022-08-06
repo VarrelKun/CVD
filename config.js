@@ -33,7 +33,7 @@ const config = {
       name: "Welcomer",
       description:
         "Welcomer is the person who greet the new person in an unique and great way",
-      logo: <CgCrown className="h-10 w-10" />,
+      logo: <CgMusic className="h-10 w-10" />,
     },
     // You can added more features if need add
   ],
