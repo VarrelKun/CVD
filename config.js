@@ -5,7 +5,7 @@ import { MdAddModerator } from "react-icons/md";
 import { SiProbot } from "react-icons/si";
 import { TbMessage2Code } from "react-icons/tb";
 const config = {
-  name: "CVDBOT",
+  name: "CVD",
   //BotName
   inviteLink:
     "https://discord.com/api/oauth2/authorize?client_id=981356614978252820&permissions=8&scope=bot",
@@ -38,7 +38,7 @@ const config = {
     // You can added more features if need add
   ],
   //Bot Features
-  serverCount: 21, //-  - Your
+  serverCount: 114, //-  - Your
   memberCount: 1330, //--   - Bot
   executedCommand: 2000, //--  - Stats
   availableCommand: 200, //---   - Here
